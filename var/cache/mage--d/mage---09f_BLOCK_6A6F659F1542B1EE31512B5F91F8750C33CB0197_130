@@ -1,0 +1,30 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1672287102;s:6:"expire";i:1672290702;s:4:"tags";s:47:"09f_BLOCK_HTML,09f_CAT_P_130,09f_CAT_P,09f_MAGE";}
+a:2:{s:8:"policies";a:1:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:6:{s:44:"iy40ombb5NgWk0GoTc7FpKqZzgFk4XP6PK5OVrYA8eM=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"okV52kNF3Q8WEtA0qh5/O+boI0DIoJxhUElxspsgGh0=";s:6:"sha256";s:44:"Ddn6e8AO2CdyoAclNugAmCVZQpSMuvLc6OtoVT8eKlw=";s:6:"sha256";}}}s:4:"html";s:3842:"
+            <div class="field configurable required">
+            <label class="label" for="attribute93">
+                <span>Color</span>
+            </label>
+            <div class="control">
+                <select name="super_attribute[93]"
+                        data-selector="super_attribute[93]"
+                        data-validate="{required:true}"
+                        id="attribute93"
+                        class="super-attribute-select">
+                    <option value="">Choose an Option...</option>
+                </select>
+            </div>
+        </div>
+        <script type="text/x-magento-init">
+        {
+            "#product_addtocart_form": {
+                "configurable": {
+                    "spConfig": {"attributes":{"93":{"id":"93","code":"color","label":"Color","options":[{"id":"4","label":"Black","products":["129"]},{"id":"5","label":"White","products":["128"]},{"id":"6","label":"Pink","products":["127"]}],"position":"0"}},"template":"<%- data.price %>\u00a0\u20ab","currencyFormat":"%s\u00a0\u20ab","optionPrices":{"127":{"baseOldPrice":{"amount":1390000},"oldPrice":{"amount":1390000},"basePrice":{"amount":1390000},"finalPrice":{"amount":1390000},"tierPrices":[],"msrpPrice":{"amount":0}},"128":{"baseOldPrice":{"amount":1390000},"oldPrice":{"amount":1390000},"basePrice":{"amount":1390000},"finalPrice":{"amount":1390000},"tierPrices":[],"msrpPrice":{"amount":0}},"129":{"baseOldPrice":{"amount":1390000},"oldPrice":{"amount":1390000},"basePrice":{"amount":1390000},"finalPrice":{"amount":1390000},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"%s\u00a0\u20ab","precision":0,"requiredPrecision":0,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":true},"prices":{"baseOldPrice":{"amount":1390000},"oldPrice":{"amount":1390000},"basePrice":{"amount":1390000},"finalPrice":{"amount":1390000}},"productId":"130","chooseText":"Choose an Option...","images":{"127":[{"thumb":"http:\/\/localhost\/magento\/pub\/media\/catalog\/product\\cache\\1e3adcd2f3751012294411ea53019273\\\/\/g\/4\/g435-blue_2_1_1.jpg","img":"http:\/\/localhost\/magento\/pub\/media\/catalog\/product\\cache\\8f8f11c6de82480d430a096bd3147269\\\/\/g\/4\/g435-blue_2_1_1.jpg","full":"http:\/\/localhost\/magento\/pub\/media\/catalog\/product\\cache\\298d8a023cc007cee95aed8acd52309a\\\/\/g\/4\/g435-blue_2_1_1.jpg","caption":null,"position":"2","isMain":true,"type":"image","videoUrl":null}],"128":[{"thumb":"http:\/\/localhost\/magento\/pub\/media\/catalog\/product\\cache\\1e3adcd2f3751012294411ea53019273\\\/\/g\/4\/g435-trang-1_1.jpg","img":"http:\/\/localhost\/magento\/pub\/media\/catalog\/product\\cache\\8f8f11c6de82480d430a096bd3147269\\\/\/g\/4\/g435-trang-1_1.jpg","full":"http:\/\/localhost\/magento\/pub\/media\/catalog\/product\\cache\\298d8a023cc007cee95aed8acd52309a\\\/\/g\/4\/g435-trang-1_1.jpg","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}],"129":[{"thumb":"http:\/\/localhost\/magento\/pub\/media\/catalog\/product\\cache\\1e3adcd2f3751012294411ea53019273\\\/\/g\/4\/g435-den-1_1.jpg","img":"http:\/\/localhost\/magento\/pub\/media\/catalog\/product\\cache\\8f8f11c6de82480d430a096bd3147269\\\/\/g\/4\/g435-den-1_1.jpg","full":"http:\/\/localhost\/magento\/pub\/media\/catalog\/product\\cache\\298d8a023cc007cee95aed8acd52309a\\\/\/g\/4\/g435-den-1_1.jpg","caption":null,"position":"1","isMain":true,"type":"image","videoUrl":null}]},"index":{"127":{"93":"6"},"128":{"93":"5"},"129":{"93":"4"}},"channel":"website","salesChannelCode":"base","sku":{"127":"H006-Pink","128":"H006-White","129":"H006-Black"}},
+                    "gallerySwitchStrategy": "prepend"
+                }
+            },
+            "*" : {
+                "Magento_ConfigurableProduct/js/catalog-add-to-cart": {}
+            }
+        }
+    </script>
+";}

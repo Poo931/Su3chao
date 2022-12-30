@@ -1,0 +1,1 @@
+[2022-12-22 04:48:04] main.CRITICAL: Error Fetching http headers {"exception":"[object] (SoapFault(code: 0): Error Fetching http headers at C:\\xampp\\htdocs\\magento\\vendor\\magento\\module-fedex\\Model\\Carrier.php:520)"} []

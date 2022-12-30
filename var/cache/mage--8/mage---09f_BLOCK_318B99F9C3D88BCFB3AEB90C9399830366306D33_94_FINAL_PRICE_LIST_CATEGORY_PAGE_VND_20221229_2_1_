@@ -1,0 +1,28 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1672287012;s:6:"expire";i:1672373412;s:4:"tags";s:46:"09f_BLOCK_HTML,09f_CAT_P_94,09f_CAT_P,09f_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:10:{s:44:"iy40ombb5NgWk0GoTc7FpKqZzgFk4XP6PK5OVrYA8eM=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"KHlbq0iM5krvgSiRxkzw2ADqQHpVXgob2KCQUM1WPXc=";s:6:"sha256";s:44:"FrS87UOrVqjEjlGEEdPrNgocuzAM4xe/EuYqzC8zwE8=";s:6:"sha256";s:44:"v/mao9tUjaIifCSBjwC8NdZ3ou/o53QNyabgqNW8Z/o=";s:6:"sha256";s:44:"QXkKYcnP2FRZNZ50D4rH5HZRsJHcaY4uj1tcFBUW6xY=";s:6:"sha256";s:44:"gs21+R3FHg3L0piBjRwV4yYjj/hCxwnz080pzh9sjEY=";s:6:"sha256";s:44:"YKQnSG+MaxgwrIW2GxLnNnsN4TPOKNFYSOWWZiIwsk0=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:4:{s:44:"MBD/yeltkla8xrltxzYxQvDQUdtNUIi1J0vaTKh819w=";s:6:"sha256";s:44:"GNXU0L50lpGGGicyVgIU+NTXMXPVWE58U32nz1YT85s=";s:6:"sha256";s:44:"AqntdJoH2aVwLY8mDDZ7ndsFw1xRLowBfErsLZ3DNt0=";s:6:"sha256";s:44:"sbcp7xl7eIWPfhfLHG59jECsIvF7Z7IDRt0uXFRCiSY=";s:6:"sha256";}}}s:4:"html";s:933:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="94" data-price-box="product-id-94">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="product-price-94"                data-price-amount="16191000"
+        data-price-type="basePrice"
+        class="price-wrapper "
+    ><span class="price">16.191.000 ₫</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-94"                data-price-amount="17990000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">17.990.000 ₫</span></span>
+        </span>
+    </span>
+
+</div>";}

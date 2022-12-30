@@ -1,0 +1,33 @@
+sku,store_view_code,attribute_set_code,product_type,categories,product_websites,name,description,short_description,weight,product_online,tax_class_name,visibility,price,special_price,special_price_from_date,special_price_to_date,url_key,meta_title,meta_keywords,meta_description,created_at,updated_at,new_from_date,new_to_date,display_product_options_in,map_price,msrp_price,map_enabled,gift_message_available,custom_design,custom_design_from,custom_design_to,custom_layout_update,page_layout,product_options_container,msrp_display_actual_price_type,country_of_manufacture,additional_attributes,qty,out_of_stock_qty,use_config_min_qty,is_qty_decimal,allow_backorders,use_config_backorders,min_cart_qty,use_config_min_sale_qty,max_cart_qty,use_config_max_sale_qty,is_in_stock,notify_on_stock_below,use_config_notify_stock_qty,manage_stock,use_config_manage_stock,use_config_qty_increments,qty_increments,use_config_enable_qty_inc,enable_qty_increments,is_decimal_divided,website_id,deferred_stock_update,use_config_deferred_stock_update,related_skus,crosssell_skus,upsell_skus,hide_from_product_page,custom_options,bundle_price_type,bundle_sku_type,bundle_price_view,bundle_weight_type,bundle_values,associated_skus
+ASR001,,Default,simple,Default/Laptop/Laptop Asus/ROG Series,base,Laptop Gaming Asus ROG Strix G15 G513RM-HQ055W Geforce RTX 3060 6GB AMD R7 6800H 16GB 512GB 15.6? 165Hz 2K IPS Per-Key RGB Win 11 Eclipse Gray,"00
+",,2.1,1,Taxable Goods,"Catalog, Search",39,,,,,Meta Title,"meta1, meta2, meta3",meta description,,,,,Block after Info Column,,,,,,,,,,,Use config,,"has_options=1,quantity_and_stock_status=In Stock,required_options=0",100,0,1,0,0,1,1,0,0,1,1,,1,0,1,1,0,1,0,0,1,0,1,ASR001,ASR001,ASR002,,,,,,,,
+ASR002,,Default,simple,Default/Laptop/Laptop Asus/ROG Series,base,Laptop ASUS ROG Zephyrus G14 GA401QC-K2199W RTX 3050 4GB Ryzen 7 5800HS 8GB 512GB 14? QHD IPS 120Hz Win 11,"ROG ZEPHYRUS G14 S?C M?NH KH?NG TRONG THÂN HÌNH 14 INCH
+
+ 
+ASUS ROG Zephyrus G14 GA401QC K2199W CPU Ryzen ™ 7nm . GPU GeForce RTX ™ 30 Series giúp cho tr?i nghi?m ch?i game v??t tr?i. Th?t là b?t ng? v?i hi?u n?ng ?n t??ng c?a Zephyrus G14. Chi?c laptop 14 inch m?nh nh?t.
+
+LÀM VI?C CH? ??NG M?I N?I 
+
+
+Làm ???c nhi?u vi?c h?n ? b?t c? ?âu v?i th?i l??ng pin dài c? ngày v?i b? s?c chu?n Type-C.
+
+CH?T L??NG HI?N TH? V??T TR?I
+Màn hình ??t chu?n Pantone® Validated cho ?? chính xác màu tuy?t v?i, v?i công ngh? Adaptive-Sync cho tr?i nghi?m ch?i game m??t mà.
+
+
+
+TR?I NGHI?M ÂM THANH ??M CHÌM
+
+Công ngh? Dolby Atmos và 4 loa cho tr?i nghi?m âm thanh ?a chi?u ?úng ngh?a. Tính n?ng ch?ng ?n AI hai chi?u mang ??n âm thanh trong tr?o và rõ ràng h?n cho các cu?c trò chuy?n, phát tr?c ti?p và h?n th? n?a.
+
+H? TH?NG T?N NHI?T
+
+Laptop n?m nay s? mát h?n bao gi? h?t nh? vào kh? n?ng làm mát ??t phá v?i keo t?n nhi?t kim lo?i l?ng trên CPU. Dù ch? là laptop 14 inch nh?ng G14 v?n có ??n 2 qu?t và 4 khe thoát nhi?t. Song song ?ó là dán l??i t?n nhi?t ? d??i ?áy máy cho hi?u su?t t?n nhi?t hoàn h?o.
+BÀN PHÍM K?T H?P
+
+
+TINH CH?NH
+ROG Armoury Crate h?p nh?t ch?c n?ng ?i?u khi?n h? th?ng và LED. Nâng cao ch?t l??ng tr?i nghi?m. B?n có th? d? dàng xác ??nh và tùy ch?nh các c?u hình theo t?ng tr??ng h?p. Giúp t? ??ng ?i?u ch?nh khi b?n kh?i ch?y các t?a game yêu thích.",,1.6,1,Taxable Goods,"Catalog, Search",21,,,,,Meta Title,"meta1, meta2, meta5",meta description,,,,,Block after Info Column,,,,,,,,,,,Use config,,"has_options=0,quantity_and_stock_status=In Stock,required_options=0",100,0,1,0,0,1,1,0,0,1,1,,1,0,1,1,0,1,0,0,1,0,1,ASR002,ASR002,ASR003,,,,,,,,
+24-WG085_Group,,Default,simple,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,Set of Sprite Yoga Straps,"<p>Great set of Sprite Yoga Straps for every stretch and hold you need. There are three straps in this set: 6', 8' and 10'.</p><ul><li>100% soft and durable cotton.</li><li>Plastic cinch buckle is easy to use.</li><li>Choice of three natural colors made from phthalate and heavy metal free dyes.</li></ul>",,,1,,"Catalog, Search",100,,,,,Meta Title,"meta1, meta2, meta6",meta description,,,,,Block after Info Column,,,,,,,,,,,,,"has_options=0,quantity_and_stock_status=In Stock,required_options=0",100,0,1,0,0,1,1,0,0,1,1,,1,1,1,1,0,1,0,0,1,0,1,24-WG085_Group,"24-WG087,24-WG086","24-WG087,24-WG086",,,,,,,,
+24-WG085-bundle-dynamic,,Default,simple,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,Sprite Yoga Strap Dynamic Bundle,"<p>The Sprite Yoga Strap is your untiring partner in demanding stretches, holds and alignment routines. The strap's 100% organic cotton fabric is woven tightly to form a soft, textured yet non-slip surface. The plastic clasp buckle is easily adjustable, lightweight and durable under strain.</p><ul><li>100% soft and durable cotton.<li>Plastic cinch buckle is easy to use.<li>Three natural colors made from phthalate and heavy metal free dyes.</ul>",,1.12,1,Taxable Goods,"Catalog, Search",14,,,,,Meta Title,"meta1, meta2, meta8",meta description,,,,,Block after Info Column,,,,,,,,,,,Use config,,"has_options=1,shipment_type=together,quantity_and_stock_status=In Stock,required_options=0",100,0,1,0,0,1,1,0,0,1,1,,1,0,1,1,0,1,0,0,1,0,1,24-WG085-bundle-dynamic,"24-WG087,24-WG086","24-WG087,24-WG086",,,dynamic,dynamic,Price range,fixed,,
+24-WG085-bundle-fixed,,Default,simple,"Default Category/Gear,Default Category/Gear/Fitness Equipment",base,Sprite Yoga Strap Fixed Bundle,"<p>The Sprite Yoga Strap is your untiring partner in demanding stretches, holds and alignment routines. The strap's 100% organic cotton fabric is woven tightly to form a soft, textured yet non-slip surface. The plastic clasp buckle is easily adjustable, lightweight and durable under strain.</p><ul><li>100% soft and durable cotton.<li>Plastic cinch buckle is easy to use.<li>Three natural colors made from phthalate and heavy metal free dyes.</ul>",,1,1,Taxable Goods,"Catalog, Search",14,,,,,Meta Title,"meta1, meta2, meta9",meta description,,,,,Block after Info Column,,,,,,,,,,,Use config,,"has_options=1,shipment_type=together,quantity_and_stock_status=In Stock,required_options=0",100,0,1,0,0,1,1,0,0,1,1,,1,0,1,1,0,1,0,0,1,0,1,24-WG085-bundle-fixed,"24-WG087,24-WG086","24-WG087,24-WG086",,,fixed,fixed,Price range,fixed,,
